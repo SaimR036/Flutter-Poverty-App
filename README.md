@@ -1,12 +1,8 @@
 # solution
 
-A new Flutter project.
+A poverty App made for the needy people to finish poverty, this app is based on donating things that the financially stable people, who are willing to donate, possess.
+This app has a donator panel where the user adds an item to open list of things that are ready to donate and a reciever panel where the users have the option to get things but once a day so not a few get all the things. This app is also benefitial for the Donators as this app would have AdNetwork Integrations ( Not yet Implemented) from which the revenue would be distributed to the donators relative to how much they contribute to the society
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
